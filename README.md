@@ -103,20 +103,6 @@ Esse projeto é licenciado pela MIT License. Veja mais detalhes por [aqui](https
 
 ---
 
-### ✒️ Autor
-
-<a href="https://github.com/brseghese"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80193824?v=4" width="100px;" alt="Personal photo"/> </a>
-
-[Clique aqui](https://brseghese.github.io)🔗 e acesse meu portfólio! 💼 (em construção...)
-
----
-
-#### 💬 Sinta-se a vontade para entrar em contato
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoseghese/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brseghese) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brseghese@gmail.com)
-
----
-
 > Desenvolvido com ❤️ por **Bruno Seghese**
 
 ---
